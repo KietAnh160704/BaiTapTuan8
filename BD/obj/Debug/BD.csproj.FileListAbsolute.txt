@@ -1,0 +1,10 @@
+D:\C#\BDing\BD\bin\Debug\BD.exe.config
+D:\C#\BDing\BD\bin\Debug\BD.exe
+D:\C#\BDing\BD\bin\Debug\BD.pdb
+D:\C#\BDing\BD\obj\Debug\BD.csproj.AssemblyReference.cache
+D:\C#\BDing\BD\obj\Debug\BD.Form1.resources
+D:\C#\BDing\BD\obj\Debug\BD.Properties.Resources.resources
+D:\C#\BDing\BD\obj\Debug\BD.csproj.GenerateResource.cache
+D:\C#\BDing\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+D:\C#\BDing\BD\obj\Debug\BD.exe
+D:\C#\BDing\BD\obj\Debug\BD.pdb

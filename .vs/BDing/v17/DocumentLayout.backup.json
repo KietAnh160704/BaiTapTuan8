@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\BDing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95F82C8E-C743-4791-8F12-66D50137CAD3}|BD\\BD.csproj|d:\\c#\\bding\\bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F82C8E-C743-4791-8F12-66D50137CAD3}|BD\\BD.csproj|solutionrelative:bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F82C8E-C743-4791-8F12-66D50137CAD3}|BD\\BD.csproj|d:\\c#\\bding\\bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95F82C8E-C743-4791-8F12-66D50137CAD3}|BD\\BD.csproj|solutionrelative:bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\BDing\\BD\\Form1.cs",
+              "RelativeDocumentMoniker": "BD\\Form1.cs",
+              "ToolTip": "D:\\C#\\BDing\\BD\\Form1.cs*",
+              "RelativeToolTip": "BD\\Form1.cs*",
+              "ViewState": "AgIAAG0AAAAAAAAAAIA1wHkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:57:17.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\BDing\\BD\\Form1.cs",
+              "RelativeDocumentMoniker": "BD\\Form1.cs",
+              "ToolTip": "D:\\C#\\BDing\\BD\\Form1.cs [Design]*",
+              "RelativeToolTip": "BD\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:55:31.751Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
